@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">appSitiosTuristicos</string>
+    <string name="txtInfo">Tourist site detail</string>
+    <string name="txtTitVal">Rating</string>
+    <string name="txtTitInfo">Information</string>
+    <string name="txtNom">Name</string>
+    <string name="txtUbi">Location</string>
+</resources>
